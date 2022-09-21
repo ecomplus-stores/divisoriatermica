@@ -1,7 +1,8 @@
 {
   "store_id": 10784,
   "name": "divisoriatermica",
-  "domain": "divisoriatermica.netlify.app",
+  "domain": "divisoriatermica.com.br",
+  "repository": "ecomplus-stores/divisoriatermica",
   "short_name": "divisoriatermica",
   "description": "divisoriatermica",
   "primary_color": "#222831",
