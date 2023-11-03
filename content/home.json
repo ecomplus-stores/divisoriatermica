@@ -9,16 +9,15 @@
       "slides": [
         {
           "img": "/img/uploads/sol_024-mercado-shops-bem-vindos.jpg",
-          "alt": "Headset banner"
-        },
-        {
+          "alt": "Headset banner",
           "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2021-12-13-at-10.51.13.jpg"
+          "end": ""
         },
         {
           "img": "/img/uploads/sol_024-mercado-shops-coberturas.jpg",
-          "alt": "Headset banner"
+          "alt": "Headset banner",
+          "start": "",
+          "end": ""
         },
         {
           "start": "",
