@@ -8,6 +8,11 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2023-12-19T17:34:09.538Z",
+          "end": "2024-01-08T02:59:00.000Z",
+          "img": "/img/uploads/banner-aviso-de-ferias.png"
+        },
+        {
           "img": "/img/uploads/sol_024-mercado-shops-bem-vindos.jpg",
           "alt": "Headset banner",
           "start": "",
@@ -33,11 +38,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/sol_024-mercado-shops-lonas.jpg"
-        },
-        {
-          "start": "2023-12-19T17:34:09.538Z",
-          "end": "2024-01-08T02:59:00.000Z",
-          "img": "/img/uploads/banner-aviso-de-ferias.png"
         }
       ]
     },
