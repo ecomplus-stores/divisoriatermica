@@ -10,7 +10,8 @@
         {
           "start": "2023-12-21T03:00:09.538Z",
           "end": "2024-01-08T02:59:00.000Z",
-          "img": "/img/uploads/banner-aviso-de-ferias.png"
+          "img": "/img/uploads/banner-aviso-de-ferias.png",
+          "alt": "Headset banner"
         },
         {
           "img": "/img/uploads/sol_024-mercado-shops-bem-vindos.jpg",
@@ -22,7 +23,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/whatsapp-image-2021-12-13-at-10.51.13.jpeg",
-          "link": "https://divisoriatermica.com.br/bolsao-termico"
+          "link": "https://divisoriatermica.com.br/bolsao-termico",
+          "alt": "Headset banner"
         },
         {
           "img": "/img/uploads/sol_024-mercado-shops-coberturas.jpg",
@@ -34,12 +36,16 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/sol_024-mercado-shops-divisorias.jpg"
+          "img": "/img/uploads/sol_024-mercado-shops-divisorias.jpg",
+          "alt": "Headset banner",
+          "link": "https://divisoriatermica.com.br/divisoria-termica"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/sol_024-mercado-shops-lonas.jpg"
+          "img": "/img/uploads/sol_024-mercado-shops-lonas.jpg",
+          "alt": "Headset banner",
+          "link": "https://divisoriatermica.com.br/lona-termica"
         }
       ]
     },
