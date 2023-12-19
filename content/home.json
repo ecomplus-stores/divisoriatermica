@@ -14,6 +14,12 @@
           "alt": "Headset banner"
         },
         {
+          "start": "2024-01-01T01:00:00.000Z",
+          "end": "2024-01-08T02:59:00.000Z",
+          "alt": "Headset banner",
+          "img": "/img/uploads/banner-ano-novo-2024.png"
+        },
+        {
           "start": "2023-12-21T03:00:09.538Z",
           "end": "2024-01-08T02:59:00.000Z",
           "img": "/img/uploads/banner-aviso-de-ferias.png",
@@ -52,12 +58,6 @@
           "img": "/img/uploads/sol_024-mercado-shops-lonas.jpg",
           "alt": "Headset banner",
           "link": "https://divisoriatermica.com.br/lona-termica"
-        },
-        {
-          "start": "2024-01-01T01:00:00.000Z",
-          "end": "2024-01-08T02:59:00.000Z",
-          "alt": "Headset banner",
-          "img": "/img/uploads/banner-ano-novo-2024.png"
         }
       ]
     },
