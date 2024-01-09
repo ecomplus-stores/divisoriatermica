@@ -1,11 +1,10 @@
 {
   "marketing_stripe": {
-    "text": "A maior empresa de produtos pra Cadeia Logística de Perecíveis do Brasil!",
+    "text": "Bolsão Térmico, Capa Térmica para Palete, Divisórias Térmicas e Lonas Térmicas. Envio para todo Brasil.",
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
