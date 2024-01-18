@@ -59,7 +59,6 @@ import {
         favoriteIds: [],
         navTabs: [],
         customerEmail: this.customer.main_email || this.ecomPassport.getCustomer().main_email,
-        isAccountCreated: false
       }
     },
   
@@ -136,15 +135,6 @@ import {
           this.$emit('logout')
         }
       },
-  
-      signup () {
-        const endpoint = `https://passport.e-com.plus/v1/${$ecomConfig.get('store_id')}/signup.json`
-        axios.post(endpoint, this.localCustomer).then(() => {
-          this.isAccountCreated = true
-          this.isLogged = false
-        })
-      }
-    },
   
     watch: {
       customer: {
