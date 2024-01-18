@@ -134,8 +134,8 @@ import {
           this.ecomPassport.logout()
           this.$emit('logout')
         }
-      },
-  
+      }
+    },
     watch: {
       customer: {
         handler (customer) {
