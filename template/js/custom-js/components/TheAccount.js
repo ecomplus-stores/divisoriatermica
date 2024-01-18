@@ -135,7 +135,7 @@ import {
           this.ecomPassport.logout()
           this.$emit('logout')
         }
-      }
+      },
      signup () {
         const endpoint = `https://passport.e-com.plus/v1/${$ecomConfig.get('store_id')}/signup.json`
         axios.post(endpoint, this.localCustomer).then(() => {
