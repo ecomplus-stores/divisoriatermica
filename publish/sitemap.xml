@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://divisoriatermica.com.br/teste</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://divisoriatermica.com.br/divisoria-termica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -35,6 +29,72 @@
       <loc>https://divisoriatermica.com.br/lona-termica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/teste</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/capa-termica-para-palete</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-bipartida</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-cortina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-gancheira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-movel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-movel-com-porta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/divisoria-termica-prateleira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/kit-ventilacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/trava-palete</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://divisoriatermica.com.br/trilhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -98,6 +158,12 @@
     </url>
   
     <url>
+      <loc>https://divisoriatermica.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://divisoriatermica.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -105,12 +171,6 @@
   
     <url>
       <loc>https://divisoriatermica.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://divisoriatermica.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
