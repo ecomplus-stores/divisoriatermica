@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.07562eb014226d5bc4f263da33117061.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9f026da475dfc3bb81e8443bbebfac22.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a94a70926c9f7043a85a2a49109117d1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f8885b19db4547020d1a512f3f288d2a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.75b01373327ed92c85cb600c458634ba.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Soluforte",
+  "short_name": "Soluforte",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produtos para a logística de perecíveis: Bolsão Térmico, Capa Térmica para Palete, Divisórias Térmicas e Lonas Térmicas. Desde 1982. Envio para todo Brasil.",
+  "background_color": "#ffffff",
+  "theme_color": "#393e46"
+}
